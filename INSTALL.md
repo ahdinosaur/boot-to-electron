@@ -34,8 +34,8 @@ as the ${user},
 # electron
 mkdir $HOME/electron
 cd $HOME/electron
-wget https://github.com/atom/electron/releases/download/v0.36.7/electron-v0.36.7-linux-arm.zip
-unzip electron-v0.36.7-linux-arm.zip
+wget https://github.com/atom/electron/releases/download/v0.37.5/electron-v0.37.5-linux-arm.zip
+unzip electron-v0.37.5-linux-arm.zip
 cd
 
 # setup .xinitrc to boot electron app
